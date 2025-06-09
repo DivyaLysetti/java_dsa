@@ -1,0 +1,13 @@
+TRAINER REPO LINK:
+https://github.com/DivyaLysetti/java_dsa
+To Download/Clone/Copy the TRAINER REPO. Use the command:
+$ git clone https://github.com/DivyaLysetti/java_dsa
+
+SESSION2:
+To Copy A Repo into our system (Laptop):
+$ git clone Repo Link
+$ git clone https://github.com/DivyaLysetti/java_dsa
+The above command copies the given Repo into out computer. 
+The Copy of the Repo in the Server (github) can be called as Remote Repo and the copy of the Repo in our computer can be called as Local Repo.
+
+$ git clone https://<PAT>@Repo_Link
